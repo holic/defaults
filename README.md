@@ -1,8 +1,6 @@
 # Basscss Defaults
 
-Default variables and custom media queries for Basscss
-
-http://basscss.com
+Default variables and custom media queries for [Basscss](http://basscss.com). Includes colors from [mrmrs/colors](//clrs.cc).
 
 
 ```css
@@ -31,21 +29,16 @@ http://basscss.com
   --space-3: 2rem;
   --space-4: 4rem;
   --container-width: 64em;
-  --blue: #0076df;
-  --red: #f95020;
-  --green: #00cf26;
-  --yellow: #efcc00;
-  --dark-gray: #333;
-  --mid-gray: #777;
-  --light-gray: #ccc;
-  --lighter-gray: #eee;
+  --dark-gray: var(--black);
+  --mid-gray: var(--gray);
+  --light-gray: var(--silver);
   --darken-1: rgba(#000,.0625);
   --darken-2: rgba(#000,.125);
   --darken-3: rgba(#000,.25);
   --darken-4: rgba(#000,.5);
-  --border-color: var(--light-gray);
   --border-width: 1px;
   --border-radius: 3px;
+  --border-color: var(--darken-2);
   --hover-background-color: var(--darken-1)
 }
 ```

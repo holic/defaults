@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jxnblk/basscss-defaults/issues"
   },
-  "homepage": "https://github.com/jxnblk/basscss-defaults"
+  "homepage": "https://github.com/jxnblk/basscss-defaults",
+  "dependencies": {
+    "colors.css": "^2.0.4"
+  }
 }
