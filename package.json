@@ -4,7 +4,7 @@
   "description": "Default variables for Basscss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jxnblk/basscss-defaults.git"
+    "url": "https://github.com/basscss/defaults.git"
   },
   "keywords": [
     "CSS",
@@ -15,9 +15,9 @@
   "author": "Brent Jackson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jxnblk/basscss-defaults/issues"
+    "url": "https://github.com/basscss/defaults/issues"
   },
-  "homepage": "https://github.com/jxnblk/basscss-defaults",
+  "homepage": "https://github.com/basscss/defaults",
   "dependencies": {
     "colors.css": "^2.0.4"
   }
